@@ -1,5 +1,8 @@
+import helper
+
+
 def main():
-    print("Hello world!!!")
+    helper.help_print()
 
 
 if __name__ == '__main__':
